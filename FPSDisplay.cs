@@ -84,7 +84,7 @@ public class FPSDisplay : MonoBehaviour
 
     string GetFPSText()
     {
-        return $"FPS: {fps} ({frameMS} ms)";
+        return $"FPS: {fps:.00} ({frameMS:.00} ms)";
     }
 
     void OnGUI()
