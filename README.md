@@ -17,3 +17,7 @@ https://user-images.githubusercontent.com/37354140/235573782-8b10733d-d780-4774-
 Commented w/ self-explanatory code...
 
 ![Script Preview](https://user-images.githubusercontent.com/37354140/235568812-8b0d19f3-3fa0-41ba-b149-4fd9b4ff7d00.png)
+
+## License
+
+Do whatever you want with this.
