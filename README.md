@@ -24,7 +24,7 @@ Pre-configured to "just work" (*attach it to a GameObject*), but you can customi
 
 ![image](https://user-images.githubusercontent.com/37354140/235569138-9cb74cc6-b92e-4e2e-83f0-4a0910e0b9e7.png)
 
-Extremely versatile, simple to use, and features support for TextMesh Pro.
+Versatile, simple to use, and features support for TextMesh Pro.
 
 https://user-images.githubusercontent.com/37354140/235573782-8b10733d-d780-4774-aa5f-64f008de8854.mp4
 
