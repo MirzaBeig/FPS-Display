@@ -1,6 +1,22 @@
 # FPS Display (Script)
 
+[![Unity Version](https://img.shields.io/badge/Unity-Any_Version_|_All_Pipelines-blueviolet?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)](https://unity3d.com/get-unity/download)
+
+[![GitHub followers](https://img.shields.io/github/followers/MirzaBeig?style=social)](https://github.com/MirzaBeig?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheMirzaBeig?style=social)](http://twitter.com/intent/user?screen_name=TheMirzaBeig)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5c5JgFyiFXKXCVRh2DsRJg?style=social)](https://www.youtube.com/MirzaBeig)
+
 A simple but useful script ([**grab it here!**](https://github.com/MirzaBeig/FPS-Display/blob/main/FPSDisplay.cs)) to calculate + render the average FPS (and frame delta/ms).
+
+[![Stars](https://img.shields.io/github/stars/MirzaBeig/FPS-Display?style=for-the-badge)](../../stargazers)
+[![Forks](https://img.shields.io/github/forks/MirzaBeig/FPS-Display?style=for-the-badge)](../../forks)
+[![GitHub watchers](https://img.shields.io/github/watchers/MirzaBeig/FPS-Display?style=for-the-badge)](../../watchers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/FPS-Display?style=for-the-badge)](../../)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/FPS-Display?style=for-the-badge)](../../)
 
 ## Preview / Usage
 
